@@ -1,1 +1,1 @@
-project to store the emodb Berlin Database of emotional acted German speech.
+Project to store the emodb Berlin Database of emotional acted German speech.
