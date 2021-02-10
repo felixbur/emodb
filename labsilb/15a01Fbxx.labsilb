@@ -1,0 +1,18 @@
+signal 15a01Fbxx
+type 0
+comment created using xlabel Thu Mar  9 13:00:00 2000
+comment created using xlabel Thu Nov 23 16:13:51 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.057610  125 der
+    0.166051  125 lap		2
+    0.308381  125 pen
+    0.418517  125 liegt		1
+    0.569319  125 auf
+    0.681150  125 dem
+    0.818396  125 eis		3
+    1.036974  125 schrank		1
+    1.513101  125 .

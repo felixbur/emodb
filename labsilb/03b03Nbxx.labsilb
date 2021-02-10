@@ -1,0 +1,33 @@
+signal speech
+type 0
+comment created using xlabel Mon Jan 22 16:17:43 2001
+comment created using xlabel Mon Feb 28 16:08:51 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.104976   -1 an
+    0.182742   -1 den
+    0.311497   -1 wo		2
+    0.417530   -1 chen
+    0.591728   -1 en
+    0.762896   -1 den
+    0.926491   -1 bin
+    1.062819   -1 ich
+    1.141587   -1 jetzt
+    1.364257   -1 im		1
+    1.439995   -1 mer
+    1.535425   -1 nach
+    1.714167   -1 hau		2
+    1.836854   -1 se
+    1.924710   -1 ge
+    2.027714   -1 fahren	1
+    2.332181   -1 und
+    2.476084   -1 ha		1
+    2.601809   -1 be
+    2.768433   -1 ag		3
+    2.954749   -1 nes
+    3.062297   -1 be
+    3.171360   -1 sucht
+    3.616920   -1 .

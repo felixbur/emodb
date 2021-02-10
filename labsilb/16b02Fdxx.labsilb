@@ -1,0 +1,27 @@
+signal wochenAO
+type 0
+comment created using xlabel Wed Apr 26 11:17:06 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.028524   -1 sie
+    0.172066   -1 ha		3
+    0.366917   -1 ben
+    0.459403   -1 es
+    0.602497   -1 gera
+    0.880623   -1 de
+    0.972176   -1 hoch		2
+    1.208218   -1 ge
+    1.308513   -1 tra		1
+    1.655428   -1 gen
+    1.754815   -1 (
+    2.064458   -1 und
+    2.182477   -1 jetzt
+    2.353865   -1 gehen		3
+    2.623706   -1 sie
+    2.717804   -1 wie
+    2.842943   -1 der
+    2.979366   -1 run		2
+    3.200903   -1 ter
+    3.469138   -1 .

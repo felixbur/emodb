@@ -1,0 +1,17 @@
+signal wochenAO
+type 0
+comment created using xlabel Wed Jun 14 13:45:28 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.070798   -1 heu		3
+    0.245160   -1 te
+    0.392022   -1 abend		2
+    0.750693   -1 könnte		2
+    1.111704   -1 ich
+    1.284896   -1 es
+    1.449019   -1 ihm
+    1.619871   -1 sa		2
+    1.925296   -1 gen		1
+    2.170456   -1 .

@@ -1,0 +1,35 @@
+signal wochenAO
+type 0
+comment created using xlabel Thu Nov  9 16:07:48 2000
+comment created using xlabel Thu Nov  9 16:03:39 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.103450   -1 an
+    0.268505   -1 den
+    0.425430   -1 wo		2
+    0.611795   -1 chen
+    0.800881   -1 en		1
+    1.075978   -1 den
+    1.332090   -1 (
+    1.810217   -1 bin		2
+    2.003175   -1 ich
+    2.191477   -1 jetzt
+    2.492923   -1 im		2
+    2.608004   -1 mer
+    2.749812   -1 nach
+    2.983454   -1 hau		3
+    3.207402   -1 se
+    3.346893   -1 ge
+    3.470490   -1 fah		2
+    3.837027   -1 ren
+    3.980005   -1 und
+    4.117163   -1 ha		2
+    4.292300   -1 be
+    4.415510   -1 (
+    4.620479   -1 ag		3
+    4.838234   -1 nes
+    5.123787   -1 be
+    5.264053   -1 sucht		1
+    5.847181   -1 .

@@ -1,0 +1,22 @@
+signal wochenAO
+type 0
+comment created using xlabel Wed Sep 20 14:34:04 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.050729   -1 was
+    0.216078   -1 sind		2
+    0.397149   -1 denn
+    0.453657   -1 das
+    0.590103   -1 für
+    0.722061   -1 tü		3
+    0.991745   -1 ten
+    1.124976   -1 die
+    1.194327   -1 da
+    1.321459   -1 un
+    1.429334   -1 ter
+    1.508317   -1 dem
+    1.636733   -1 tisch		2
+    1.937883   -1 stehen		1
+    2.333101   -1 .
